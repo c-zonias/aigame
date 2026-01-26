@@ -71,4 +71,3 @@ class Board:
             lines.append(" ".join(row))
         lines.append("0 1 2 3 4 5 6")
         return "\n".join(lines)
-
